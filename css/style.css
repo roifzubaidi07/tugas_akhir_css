@@ -1,0 +1,28 @@
+body {
+  font-family: sans-serif;
+  background: orange;
+}
+
+main .container .row .col-md-12 img {
+  border: 3px solid black;
+}
+
+.line {
+  width: 230px;
+  border: 1px solid black;
+  position: absolute;
+}
+
+.line1 {
+  right: 340px;
+  top: -30px;
+}
+
+.line2 {
+  right: 130px;
+  top: 60px;
+}
+
+.line3 {
+  left: 220px;
+}
